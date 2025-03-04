@@ -1,0 +1,22 @@
+{
+  "name": "solar-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dat.gui": "^0.7.9",
+    "firebase": "^11.4.0",
+    "three": "^0.174.0",
+    "three-orbitcontrols": "^2.110.3"
+  },
+  "devDependencies": {
+    "vite": "^6.2.0"
+  }
+}
